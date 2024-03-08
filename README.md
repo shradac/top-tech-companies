@@ -317,3 +317,6 @@ If you'd like to contribute, please fork and create a PR. **Everything needs to 
 |![Zynga](https://www.google.com/s2/favicons?domain=https://www.zynga.com/)|<a href='https://www.zynga.com/'> Zynga </a>|📍 San Francisco, CA|<a href='https://www.zynga.com/jobs/careers/'> Careers at Zynga</a>|
 |![Zynga](https://www.google.com/s2/favicons?domain=https://www.zynga.com/)|<a href='[https://www.zynga.com/](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/requisitions?mode=job&iis=LinkedIn&utm_medium=jobshare)https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/requisitions?mode=job&iis=LinkedIn&utm_medium=jobshare'> Goldman Sachs </a>|📍 San Francisco, CA|<a href='https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/requisitions?mode=job&iis=LinkedIn&utm_medium=jobshare'> Careers at Goldman Sachs</a>|
 Nutanix </a>|📍 San Francisco, CA|<a href='https://nutanix.eightfold.ai/careers?query=software&location=United%20States%2CUnited%20States&pid=20273406&domain=nutanix.com&sort_by=relevance'> Careers at Nutanix</a>|
+Bloomberg </a>|📍 San Francisco, CA|<a href='https://careers.bloomberg.com/job/search?el=Experienced+Hires&el=Students+and+Recent+Graduates&lc=New+York&nr=40'> Careers at Bloomberg</a>|
+
+
